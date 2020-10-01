@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SUCI-Tool"
+    }
+  },
+  "defaultProject": "SUCI-Tool",
+  "cli": {
+    "analytics": "355b6760-cf49-4ac4-a6d9-c1fcf2628465"
+  }
 }

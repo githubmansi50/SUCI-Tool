@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { SucidecryptComponent } from './sucidecrypt/sucidecrypt.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SucidecryptComponent
   ],
   imports: [
     BrowserModule,
