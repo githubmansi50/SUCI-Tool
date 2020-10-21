@@ -1,8 +1,24 @@
 {
-  "profAdec": [
+  "profBdec": [
     {
-      "hnprivatekey": "F1AB1074477EBCC7F554EA1C5FC368B1616730155E0041AC447D6301975FECDA",
-      "tlv": "A1360100F110F0FF0201039AAB8376597021E855679A9778EA0B67396E68C66DF32C0F41E9ACCA2DA9B9D146A33FC2716AC7DAE96AA3OA4D"
+      "hnprivatekey": "F1 AB 10 74 47 7E BC C7 F5 54 EA 1C 5F C3 68 B1 61 67 30 15 5E 00 41 AC 44 7D 63 01 97 5F EC DA",
+      "tlv": "A1 36 01 00 F1 10 F0 FF 02 01 03 9A AB 83 76 59 70 21 E8 55 67 9A 97 78 EA 0B 67 39 6E 68 C6 6D F3 2C 0F 41 E9 AC CA 2D A9 B9 D1 46 A3 3F C2 71 6A C7 DA E9 6A A3 OA 4D",
+      "SUPI_Format": "00",
+      "Identity": "01",
+      "MCC": "01",
+      "MNC": "1F",
+      "RI": "00 0F",
+      "PSID": "01",
+      "HNWID": "01",
+      "EphPublicKey": "03 9A AB 83 76 59 70 21 E8 55 67 9A 97 78 EA 0B 67 39 6E 68 C6 6D F3 2C 0F 41 E9 AC CA 2D A9 B9 D1",
+      "InputCipherText": "46 A3 3F C2 71",
+      "SharedKey": "Null",
+      "DecryptionKey": "Null",
+      "ICB": "Null",
+      "MACKey": "Null",
+      "DecryptionText": "Null",
+      "MAC-TagValue": "Null",
+      "MSIN/IMSI": "Null"
     }
   ]
 }

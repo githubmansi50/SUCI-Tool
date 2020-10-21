@@ -9,7 +9,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AppComponent {
   title = 'SUCI-Tool';
-  profAdec$ = this.http.get('/api/profAdec');
+  profBdec$ = this.http.get('/api/profBdec');
 
-   constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) { }
 }

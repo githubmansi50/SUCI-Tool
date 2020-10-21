@@ -8,9 +8,9 @@ describe('SucidecryptComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ SucidecryptComponent ]
+      declarations: [SucidecryptComponent]
     })
-    .compileComponents();
+      .compileComponents();
   }));
 
   beforeEach(() => {
